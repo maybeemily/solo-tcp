@@ -1,0 +1,24 @@
+{
+  "name": "solo-tcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "readStream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybeemily/solo-tcp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maybeemily/solo-tcp/issues"
+  },
+  "homepage": "https://github.com/maybeemily/solo-tcp#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.7.1"
+  }
+}
